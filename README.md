@@ -136,6 +136,19 @@ Each game:
 
 ---
 
+### Components Used
+
+| Component              | Description                       | Link |
+|------------------------|-----------------------------------|------|
+| **ESP32-C6**           | Main Microcontroller (MCU)        | [ESP32-C6 DevKitC-1](https://www.e-komponent.com/esp32-c6-devkitc-1-n8) |
+| **ILI9341 TFT**        | 2.8" 240x320 SPI Touch Display    | [2.8" 240x320 ILI9341 TFT](https://www.robotistan.com/28incharduinotouchscreenshield-240320pixel-tftlcd-ili9341-en) |
+| **Joystick (x2)**      | Analog Joystick Module            | [XY Joystick Module](https://www.robo90.com/xy-joystick-modulu-arduino-uyumlu) |
+| **Push Buttons (x4)**  | 12x12mm Push Buttons              | [Push Button Set (12x12mm)](https://www.robo90.com/push-buton-ve-renkli-kapak-seti-12x12x73-25-adet) |
+| **RGB LED**            | 5mm Diffused RGB LED (Common Anode) | [5mm RGB LED](https://www.robo90.com/5mm-diffused-rgb-led-ortak-anot) |
+| **Buzzer**             | 5V Passive Buzzer                 | [5V Passive Buzzer](https://www.robo90.com/pasif-buzzer-5v) |
+
+---
+
 ## Pin Configuration
 
 ```cpp
