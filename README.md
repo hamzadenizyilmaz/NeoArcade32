@@ -284,7 +284,8 @@ Download from: https://www.arduino.cc/
 
 ## 📸 Showcase
 
-
+![display](https://github.com/hamzadenizyilmaz/NeoArcade32/tree/main/photo/photo1.jpeg)
+![display](https://github.com/hamzadenizyilmaz/NeoArcade32/tree/main/photo/photo2.jpeg)
 
 ---
 
