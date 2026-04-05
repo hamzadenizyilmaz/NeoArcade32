@@ -318,13 +318,13 @@ If you like this project:
 
 ## License
 
-MIT License (recommended)
+AGPL-3.0 license
 
 ---
 
 ## Final Note
 
-NeoArcade32 is not just a game project —
+NeoArcade32 is not just a game project,
 it's a complete **embedded system showcase** combining hardware + software + UX.
 
 ---
